@@ -1,0 +1,2 @@
+# SmartTeach
+My graduation project
